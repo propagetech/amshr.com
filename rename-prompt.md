@@ -30,66 +30,66 @@ Files and context:
     }
   },
   {
-    "path": "blog.html",
-    "context": {
-      "title": "",
-      "first_heading": "Blog & News"
-    }
-  },
-  {
-    "path": "blog_effective-ways-to-build-team-s-communication-while-working-remotely.html",
+    "path": "blog-effective-ways-to-build-team-s-communication-while-working-remotely.html",
     "context": {
       "title": "Effective ways to build team\u2019s communication while working remotely",
       "first_heading": "Effective ways to build team\u2019s communication while working remotely"
     }
   },
   {
-    "path": "blog_employee-retention---a-critical-aspect-to-ensure-stability-and-success-of-your-business.html",
+    "path": "blog-employee-retention-a-critical-aspect-to-ensure-stability-and-success-of-your-business.html",
     "context": {
       "title": "Employee Retention - A critical aspect to ensure stability and success of your Business",
       "first_heading": "Employee Retention - A critical aspect to ensure stability and success of your Business"
     }
   },
   {
-    "path": "blog_how-investing-in-human-resources-can-help-startups-and-msmes-grow-.html",
+    "path": "blog-how-investing-in-human-resources-can-help-startups-and-msmes-grow.html",
     "context": {
       "title": "How investing in Human Resources can help Startups and MSMEs grow?",
       "first_heading": "How investing in Human Resources can help Startups and MSMEs grow?"
     }
   },
   {
-    "path": "blog_how-payroll-outsourcing-can-be-beneficial-for-organizations-.html",
+    "path": "blog-how-payroll-outsourcing-can-be-beneficial-for-organizations.html",
     "context": {
       "title": "How Payroll Outsourcing Can Be Beneficial For Organizations?",
       "first_heading": "How Payroll Outsourcing Can Be Beneficial For Organizations?"
     }
   },
   {
-    "path": "blog_maharashtra-most-preferred-hiring-destination.html",
+    "path": "blog-maharashtra-most-preferred-hiring-destination.html",
     "context": {
       "title": "Maharashtra most preferred hiring destination",
       "first_heading": "Maharashtra most preferred hiring destination"
     }
   },
   {
-    "path": "blog_temporary-staffing---an-enabler-to-your-business.html",
+    "path": "blog-temporary-staffing-an-enabler-to-your-business.html",
     "context": {
       "title": "Temporary staffing - An enabler to your business",
       "first_heading": "Temporary staffing - An enabler to your business"
     }
   },
   {
-    "path": "blog_workplace-stress-alert--60--of-employees-plan-to-quit-jobs-soon--says-a-survey.html",
+    "path": "blog-workplace-stress-alert-60-of-employees-plan-to-quit-jobs-soon-says-a-survey.html",
     "context": {
       "title": "Workplace stress alert: 60% of employees plan to quit jobs soon, says a survey",
       "first_heading": "Workplace stress alert: 60% of employees plan to quit jobs soon, says a survey"
     }
   },
   {
-    "path": "blog_you-can-manage-your-stress-while-working-from-home---it-s-not-that-difficult-.html",
+    "path": "blog-you-can-manage-your-stress-while-working-from-home-it-s-not-that-difficult.html",
     "context": {
       "title": "You can manage your stress while working from home - It\u2019s not that difficult!",
       "first_heading": "You can manage your stress while working from home - It\u2019s not that difficult!"
+    }
+  },
+  {
+    "path": "blog.html",
+    "context": {
+      "title": "",
+      "first_heading": "Blog & News"
     }
   },
   {
@@ -189,6 +189,12 @@ Files and context:
           "title": ""
         }
       ]
+    }
+  },
+  {
+    "path": "imgs/04cd26a7e71848a5ebf8e88a2669b63b.webp",
+    "context": {
+      "refs": []
     }
   },
   {
@@ -372,7 +378,19 @@ Files and context:
     }
   },
   {
+    "path": "imgs/371cd9c4752fd50d6a72cd0cba994035.svg",
+    "context": {
+      "refs": []
+    }
+  },
+  {
     "path": "imgs/391754384792b6a888b5dbb6da5fd671.webp",
+    "context": {
+      "refs": []
+    }
+  },
+  {
+    "path": "imgs/3e39582987706d41db721482687f8a62.svg",
     "context": {
       "refs": []
     }
@@ -509,6 +527,12 @@ Files and context:
     }
   },
   {
+    "path": "imgs/68e7b66e16dcf59745b5d1fbd64fc546.webp",
+    "context": {
+      "refs": []
+    }
+  },
+  {
     "path": "imgs/6b5a6300155369f29a80e99647520cc2.webp",
     "context": {
       "refs": [
@@ -576,6 +600,12 @@ Files and context:
           "title": ""
         }
       ]
+    }
+  },
+  {
+    "path": "imgs/778ce088b476a3490d58caa02448e0e9.svg",
+    "context": {
+      "refs": []
     }
   },
   {
@@ -679,6 +709,12 @@ Files and context:
     }
   },
   {
+    "path": "imgs/98d048157833e846710898487cf450dc.svg",
+    "context": {
+      "refs": []
+    }
+  },
+  {
     "path": "imgs/9bc71177b9c19485b5f89d77dc3a724b.webp",
     "context": {
       "refs": [
@@ -698,6 +734,12 @@ Files and context:
           "title": ""
         }
       ]
+    }
+  },
+  {
+    "path": "imgs/a490f104164a21f043b30ed302f2b591.svg",
+    "context": {
+      "refs": []
     }
   },
   {
@@ -767,6 +809,12 @@ Files and context:
     }
   },
   {
+    "path": "imgs/b0dc1228f2c289cb6d03084943206cf0.webp",
+    "context": {
+      "refs": []
+    }
+  },
+  {
     "path": "imgs/b0f3edf865dad4976df89ae8e33ee767.webp",
     "context": {
       "refs": [
@@ -786,6 +834,12 @@ Files and context:
           "title": ""
         }
       ]
+    }
+  },
+  {
+    "path": "imgs/b5721aca08135b6e061e17fae4016faa.webp",
+    "context": {
+      "refs": []
     }
   },
   {
@@ -811,6 +865,12 @@ Files and context:
     }
   },
   {
+    "path": "imgs/b9832ce1e3dabce86326d05cacb89f43.svg",
+    "context": {
+      "refs": []
+    }
+  },
+  {
     "path": "imgs/bbca0810c7a5ad08bb64b3df3d7f568d.webp",
     "context": {
       "refs": [
@@ -819,6 +879,18 @@ Files and context:
           "title": ""
         }
       ]
+    }
+  },
+  {
+    "path": "imgs/bc26b60905a3cde8bd01d4872187a47a.svg",
+    "context": {
+      "refs": []
+    }
+  },
+  {
+    "path": "imgs/be7b3ee99b12fa939c35a0e1c9b6c367.svg",
+    "context": {
+      "refs": []
     }
   },
   {
@@ -838,6 +910,12 @@ Files and context:
           "title": ""
         }
       ]
+    }
+  },
+  {
+    "path": "imgs/c1ec2177520de19f711646ff95f865e6.svg",
+    "context": {
+      "refs": []
     }
   },
   {
